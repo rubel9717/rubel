@@ -13,7 +13,7 @@ http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/14/chunks.m3u8?nimblesessionid=2549810&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDM6NDk6NTcgUE0maGFzaF92YWx1ZT1TOWpvamtCSHRpNTBmdXFtU2hRRUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
