@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mecca.JPG/220px-Mecca.png" group-title="Arabi", Makkah Live
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
