@@ -1,6 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/https://1.bp.blogspot.com/-aifbYOiM7A0/WmWALt8laLI/AAAAAAAAADU/aX4xek3C0YED38UZhxWtMf6qcfRE84H8QCLcBGAs/w1200-h630-p-k-no-nu/Nagorik%2BTV.png group-title="Bangla", Nagorik TV
 http://tv.ebox.live:8081/thunderbd/59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
