@@ -76,7 +76,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
+http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=427ba66c4234e4e87ed826f1b0c68cd98006ea31-861239e1cae3598cbd01a7ca76d3132c-1626593505-1626582705&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
@@ -88,7 +88,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8?token=df05062ebfc247bdc71eb1165676f749f69286b4-250a85747aa99e9079c1824f5511afce-1626593579-1626582779&remote=103.63.157.13
 
 
 
@@ -128,14 +128,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports", Sony Six HD
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8?token=fbdb58d00d20c017b3a945474622646f708798bf-8da100774369058fb8c377c074115928-1626593173-1626582373&remote=103.63.157.13
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
 http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 SD
-http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/05/sony-ten-featured-2-2.png" group-title="Sports", Sony Ten 2 HD
+http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8?token=f502abfa693709d6f872ab37fb07271e8af74fa3-8f22855b7cc96641c7bf283b795dba9a-1626592582-1626581782&remote=103.63.157.13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8?token=913623fff61c098d5e086ba4963fc40a20fadb97-5c600d8d2e199576f46b893083ea2512-1626592918-1626582118&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://tv.pmcon.net/hls/stream15.m3u8
+http://tv.aliflailabd.com:8989/star-sports1/index.m3u8?token=5b24344a04551d10f712ad210d75673cebd7f053-696ea79ea14d95379075702a39216187-1626593040-1626582240&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
