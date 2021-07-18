@@ -15,7 +15,7 @@ http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://tv.ebox.live:8081/thunderbd/14/chunks.m3u8?nimblesessionid=2549810&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDM6NDk6NTcgUE0maGFzaF92YWx1ZT1TOWpvamtCSHRpNTBmdXFtU2hRRUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.aliflailabd.com:8989/rtv/index.m3u8?token=dc6a35b9c32e7bfdaf504f4e8354df2e421b93a3-a165d18c14741750acd79e73bd4792ea-1626582975-1626572175&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
@@ -27,7 +27,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.png" group-title="Bangla", ATN News
-http://tv.ebox.live:8081/thunderbd/49/chunks.m3u8?nimblesessionid=2550255&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDM6NTU6MzkgUE0maGFzaF92YWx1ZT1VWW1aK0YyakU3UXU5UFNVY2dUUU5RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.aliflailabd.com:8989/atn-news/index.m3u8?token=1c3e09171292af08393b5c6ce159f962062df0dd-013b3f2658b93b59687850f8cdbb8bbd-1626583158-1626572358&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla", Ekattor TV
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
@@ -35,7 +35,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://tv.ebox.live:8081/thunderbd/54/chunks.m3u8?nimblesessionid=2549624&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDM6NDc6MTEgUE0maGFzaF92YWx1ZT1SL0Q3cHJQNkt6K2w1Ymtpd1ovRHdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.aliflailabd.com:8989/ntv/index.m3u8?token=5ec628efcafa47cd63fe7a7055fd45af45818579-ef18bd0240a120e7919fbb381ee18607-1626583056-1626572256&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
