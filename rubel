@@ -3,7 +3,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://tv.aliflailabd.com:8989/nagorik-tv/index.m3u8?token=e9447404563ad57f4859a5bccb6ca9bb67e2149b-d8d0d523c1a8a00808093ed3ae93d47b-1626584273-1626573473&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangla", Duronto TV
 http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=2547886&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDM6MjQ6MzEgUE0maGFzaF92YWx1ZT1PYXA3SHpCWXhyUE5yeHBQR1JnWTBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
