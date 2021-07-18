@@ -9,7 +9,7 @@ http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=2547886&wmsAut
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+http://tv.aliflailabd.com:8989/tsports/index.m3u8?token=d42271e3d322f4bbb9ba25ecefe557aef0f9fa71-0a63c8c70f5f4e4025965180240ba497-1626583493-1626572693&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
