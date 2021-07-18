@@ -24,6 +24,8 @@ http://tv.aliflailabd.com:8989/rtv/index.m3u8?token=dc6a35b9c32e7bfdaf504f4e8354
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Asian_TV_Logo.png" group-title="Bangla", Asian TV
+http://tv.aliflailabd.com:8989/asiantv/index.m3u8?token=362969f1bcb98993e7cf9ea8b67b6c67dae136a9-90cc22de21133e6c04ef2eb65f92d87f-1626599735-1626588935&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
 http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8?token=7a5af93c1ea3d2a05620ed1b25d2b2279b411b8a-34d35818e8b2208158edeace085148f0-1626582822-1626572022&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
