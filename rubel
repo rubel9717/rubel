@@ -17,7 +17,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="Bangla", ATN Bangla
 http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8?token=ed5886f3662d9470a156118400d6139d22b6ce44-3fd2053a9f34f0e4aedae2b0710ca821-1626598661-1626587861&remote=103.63.157.13
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkk4izJDdld_JvMcAzTy_HvJB_vk1sOzv19RVwvpESa49XjFcXmEF3GIgFiwXZGLWSOQ&usqp=CAU.PNG" group-title="Bangla", SAtv
-http://tv.aliflailabd.com:8989/satv/index.m3u8?token=1b0409ea2d9337f18d3958db4ccba0b91f7847b4-267aff432978fd8494fe458c1d158912-1626598963-1626588163&remote=103.63.157.13
+https://iptvbd.jagobd.com:444/iptv/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
 http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
