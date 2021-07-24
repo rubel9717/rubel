@@ -32,12 +32,12 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkk4izJDdld_JvMcAzTy_HvJB_vk1sOzv19RVwvpESa49XjFcXmEF3GIgFiwXZGLWSOQ&usqp=CAU.PNG" group-title="Bangla", SA TV
 https://iptvbd.jagobd.com:444/iptv/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",RTV HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1eVp6MWlkMEozTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
-http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdUFETXdZWFlzZG1iaEoyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Asian_TV_Logo.png" group-title="Bangla", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv HD
