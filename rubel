@@ -3,7 +3,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_q
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVDYXpGR2RwUjNMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
