@@ -137,8 +137,8 @@ http://tv.pmcon.net/hls/stream3.m3u8
 http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-
-
+#EXTINF:0 tvg-logo="" group-title="FILMES",HBO 2
+http://165.227.37.17/loadbalance/hbo2hd/chunks.m3u8?pxAuth=7OMOMmWYEI1crcl7QTSQth9BIl7A5MCn
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
