@@ -7,9 +7,9 @@ http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVDTjBVRE4wVVROeFlqTnlJVE14QURNd0FEZDU5V2J2TjNMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+http://tv.pmcon.net/hls/stream21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVVHT2wxeVp6MUNOeXdXWnU1V1lvTjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-luikySV3Tcc/Xfpq-cyxxnI/AAAAAAAAAvM/WVOCVtAXp7YZt6hIEAw2M6AW3z7YUdd3ACLcBGAsYHQ/w1200-h630-p-k-no-nu/Atn-news-live.png" group-title="Bangla", ATN News
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5OWEx6ZG5iMEYyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla", Ekattor TV
@@ -34,8 +34,8 @@ http://tv.pmcon.net/hls/stream20.m3u8
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5KM2J0Z1RMa0ptYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 http://103.205.133.19/hls/satv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",RTV HD
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1eVp6MWlkMEozTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla", RTV HD
+http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVFHYTJSWFlzZG1iaEoyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
