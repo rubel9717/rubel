@@ -122,8 +122,6 @@ http://tv.pmcon.net/hls/stream13.m3u8
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild Hindi
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
@@ -138,6 +136,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
 http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Sony_LIV2020.png" group-title="Sports", SonyLiv
+https://bdlivetv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/ten3/chunks.m3u8?nimblesessionid=6062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
