@@ -128,7 +128,7 @@ http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", HBO
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+https://tv.bdlivetv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/hbo/chunks.m3u8?nimblesessionid=1270406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN 
 http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
@@ -142,6 +142,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
 http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Sony_LIV2020.png" group-title="Sports", SonyLiv
+https://bdlivetv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/ten3/chunks.m3u8?nimblesessionid=6062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
