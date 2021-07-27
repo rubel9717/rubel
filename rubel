@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL.png" group-title="Arabi", Makkah TV Live
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8
+http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
@@ -58,6 +58,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chun
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.png" group-title="Bangla", Desh.TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
+http://103.205.133.19/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
@@ -68,7 +70,11 @@ http://tv.pmcon.net/hls/stream27.m3u8
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 
+http://tv.pmcon.net/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 
+http://tv.pmcon.net/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Bangla", Sony Aath
 
 
 
@@ -84,15 +90,17 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://tv.pmcon.net/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://tv.pmcon.net/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
@@ -101,70 +109,75 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi", 9X Music
+http://103.205.133.19/hls/9xm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science Hindi
-https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+http://tv.pmcon.net/hls/stream6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery Bangla HD 
+http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science English
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English", Discovery Turbo
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
-http://tv.minhalista.me/live/fgiroldo/giroldo995/36960.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
 http://tv.pmcon.net/hls/stream13.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild Hindi
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", HBO
+aVNvNFdSVkxsWlhhTTlETzFOVGJ1OG1Zbzl5Y3NWbWJ1RkdhajlpY2xSM2NoMTJMdmxtTGlWSGEwbDJadVlIZDBWbWJ5RldiaDlpZDBSWFp1SlhZdEYyTHQ5Mll1UW5ibFJuYnZObWNsTlhkaVZIYTBsMlp1Y1hZeTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN 
+http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.png" group-title="English", &privé HD
 http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
 http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Sony_LIV2020.png" group-title="Sports", SonyLiv
-https://bdlivetv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/ten3/chunks.m3u8?nimblesessionid=6062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=rk
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://tv.pmcon.net/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports", Star Sports 2 HD
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
-http://180.210.191.2/hls/stream34.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports", WWE NETWORK
-http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports 
+http://tv.pmcon.net/hls/stream11.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
+http://tv.pmcon.net/hls/stream23.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Bangla
+http://tv.pmcon.net/hls/stream32.m3u8
