@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
@@ -119,7 +120,7 @@ http://tv.pmcon.net/hls/stream8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkbDVXWXNCSGJoMVdhdUYyTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery Bangla HD 
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science English
@@ -128,18 +129,18 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
-http://etv.roarzone.info:8081/thunderbd/35/chunks.m3u8?nimblesessionid=3733304&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjo0MTo0MyBBTSZoYXNoX3ZhbHVlPTdWejJPVjBvU1J2NnEzUFlOOENNU2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", HBO
-aVNvNFdSVkxsWlhhTTlETzFOVGJ1OG1Zbzl5Y3NWbWJ1RkdhajlpY2xSM2NoMTJMdmxtTGlWSGEwbDJadVlIZDBWbWJ5RldiaDlpZDBSWFp1SlhZdEYyTHQ5Mll1UW5ibFJuYnZObWNsTlhkaVZIYTBsMlp1Y1hZeTl5TDZNSGMwUkhh
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN 
 http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
 http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.png" group-title="English", & Privé HD
-PT1BTzFOVGJ1Z1haazVXYXZFVFl4WVhMenQyWWhKSGR2UUdhbFpYYXlCSFp1RjJMMFZtYnU0R1pqZEhhdXcyY3o1U09oUmphNGNYTjU5eUw2TUhjMFJIYQ==
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
