@@ -85,14 +85,20 @@ http://103.205.133.19/hls/sangeetbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://103.205.133.19/hls/chs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://etv.roarzone.info:8081/thunderbd/68/chunks.m3u8?nimblesessionid=3732312&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjoxNzo0MiBBTSZoYXNoX3ZhbHVlPXY4Skh0b0EyS3o5dDNKbVFZVElIcHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV SD
+http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD
+http://103.205.133.19/hls/chc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi", Sony Sab HD (3)
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus
 http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi", Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
@@ -109,6 +115,8 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGg6i93.png" group-title="Hindi", Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema
 http://etv.roarzone.info:8081/thunderbd/76/chunks.m3u8?nimblesessionid=3732377&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjoxOTo0NSBBTSZoYXNoX3ZhbHVlPXl6c2MwMGlQaExOTlpldmpFQkwwU3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi", Music India
@@ -144,7 +152,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="English", & Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six
 http://etv.roarzone.info:8081/thunderbd/24/chunks.m3u8?nimblesessionid=3733546&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjo0OToxNCBBTSZoYXNoX3ZhbHVlPXZNUUZZZ0llVG90bktSdDI1SWk5aUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
