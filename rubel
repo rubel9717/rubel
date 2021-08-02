@@ -152,19 +152,19 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six
 PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0x6MENibDVtYmhoMlF2UWpOMFlqT3ljVE11Y2pNdUlETXg0eU13RXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-https://bdlivetv.xyz:2096/Sp0rts/ten1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTo1MDo1NCBBTSZoYXNoX3ZhbHVlPTdrU24rbnRFL2VNQ241d2xaWFc3c1E9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://etv.roarzone.info:8081/thunderbd/20/chunks.m3u8?nimblesessionid=3731576&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTo1ODo1NCBBTSZoYXNoX3ZhbHVlPTdKc3g0aW1vNUJFL1d0KzI0YlFVY0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
-http://tv.pmcon.net/hls/stream39.m3u8
+http://etv.roarzone.info:8081/thunderbd/21/chunks.m3u8?nimblesessionid=3731691&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjowMTozNSBBTSZoYXNoX3ZhbHVlPVVEMm9GNTUyRWU4MlRDaDVaUHE4eXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://10.16.100.207:8082/sports/tEn_3_hD_720.m3u8
+http://etv.roarzone.info:8081/thunderbd/22/chunks.m3u8?nimblesessionid=3731748&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjowMjo1MSBBTSZoYXNoX3ZhbHVlPThaWXhsYmFwR01Ob2U3T2c0NGpOeGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://tv.pmcon.net/hls/stream15.m3u8
+http://etv.roarzone.info:8081/thunderbd/25/chunks.m3u8?nimblesessionid=3731824&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjowNDo0MCBBTSZoYXNoX3ZhbHVlPWdLSk1qSUh2VTF1UnQ0VFg3dXlKUVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports", Star Sports 2 HD
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
+http://etv.roarzone.info:8081/thunderbd/28/chunks.m3u8?nimblesessionid=3731875&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjowNjowNSBBTSZoYXNoX3ZhbHVlPXRiRklWdjQ3UkFDd0phd2ROSDlxS0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
