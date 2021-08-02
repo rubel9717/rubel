@@ -3,7 +3,7 @@ http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+https://bdlivetv.xyz:2096/Sp0rts/tsports/chunks.m3u8?nimblesessionid=76406&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTozMDozMCBBTSZoYXNoX3ZhbHVlPWxQN2tIQUxhd252OVpaaXpwVlplK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
@@ -111,7 +111,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://tv.pmcon.net/hls/stream25.m3u8
+https://live.bdtv.xyz:2096/token/ZeeCinema/chunks.m3u8?nimblesessionid=1322664&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTozNjoyOCBBTSZoYXNoX3ZhbHVlPUNPRG1iMGVuWDlIRDJ1NWQ3Zm5Manc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi", 9X Music
@@ -152,7 +152,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six
 PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0x6MENibDVtYmhoMlF2UWpOMFlqT3ljVE11Y2pNdUlETXg0eU13RXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
+https://bdlivetv.xyz:2096/Sp0rts/ten1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTo1MDo1NCBBTSZoYXNoX3ZhbHVlPTdrU24rbnRFL2VNQ241d2xaWFc3c1E9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
