@@ -4,6 +4,8 @@ http://tv.pmcon.net/hls/stream33.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD 2
+http://etv.roarzone.info:8081/thunderbd/102/chunks.m3u8?nimblesessionid=3844654&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTI6MTI6NDcgUE0maGFzaF92YWx1ZT1vT1lPRHF0cnJCT3ZVWXRzcjJxbVJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
