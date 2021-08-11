@@ -241,5 +241,7 @@ http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/i5J3zrE.png" group-title = "Kids", Pogo
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
 http://alphabetagama.myddns.me/kids2019/pogohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDY6NTA6NDggQU0maGFzaF92YWx1ZT1JL1RaN2lZYlNaSlBDbzFkbUVMQUt3PT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF: -1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2014_Disney_Channel_logo.png" group-title="Kids" Disney Channel Hindi
+http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
