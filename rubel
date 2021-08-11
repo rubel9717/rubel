@@ -120,9 +120,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/History_TV18#/media/File%3AHistory_TV18_logo.png" group-title="Hindi", History Tv 18
-http://alphabetagama.myddns.me/wildsci2019/historytv18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDM6MDk6MjcgQU0maGFzaF92YWx1ZT0xeWZaUzZtZW9xdEhjd3YrK3RJWktRPT0mdmFsaWRtaW51dGVzPTY=
-
+#EXTINF:-1 tvg-logo="https://nsjjsksjjdjjjjj.png" group-title="Hindi", WoW Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
