@@ -120,6 +120,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:B4U_Movies.png" group-title="Hindi", B4U Movies
+http://livezer0.hjkm.info:11991/neptune/b4umovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDI6MDY6NDUgQU0maGFzaF92YWx1ZT00em5TdndNblZlekcybjNKOTVyajlnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
