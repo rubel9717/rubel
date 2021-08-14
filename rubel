@@ -39,7 +39,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 http://103.205.133.19/hls/satv.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla", RTV HD
 http://103.205.133.19/hls/rtv.m3u8
