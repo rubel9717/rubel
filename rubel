@@ -24,7 +24,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
-http://103.205.133.19/hls/nagorik.m3u8
+http://103.205.133.48/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqDLvV.png" group-title="Bangla", Sristi TV
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
@@ -68,7 +68,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh.TV
 http://103.205.133.18/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
-http://103.205.133.19/hls/peacetv.m3u8
+http://103.205.133.48/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla SD
@@ -84,11 +84,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Bangla", Zee Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha SD
-http://103.205.133.19/hls/chsj.m3u8
+http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD (2)
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Bangla", Sony Aath
-http://103.205.133.19/hls/sony8.m3u8
+http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
