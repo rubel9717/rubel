@@ -92,11 +92,11 @@ http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://103.205.133.19/hls/chs.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/52572
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD
 http://103.205.133.19/hls/chc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV SD
-http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16964
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi", Sony Sab HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus SD
