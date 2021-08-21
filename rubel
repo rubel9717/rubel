@@ -78,7 +78,7 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
-http://etv.roarzone.info:8081/thunderbd/31/chunks.m3u8?nimblesessionid=3732190&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNjoxNDo1NiBBTSZoYXNoX3ZhbHVlPWxUZmx6eUwwZGw5TWJQd2t2SlZkUmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
