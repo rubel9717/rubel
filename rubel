@@ -120,7 +120,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="Hindi", Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi", Sony Wah
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
@@ -146,7 +146,7 @@ http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGg6i93.png" group-title="Hindi", Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
@@ -158,7 +158,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Hindi", Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Hindi", Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
 
 
 
@@ -186,25 +186,19 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2g1RZpU.png" group-title="English", Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
-
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.png" group-title="English", & Privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="English", & Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Sports", Super Sports Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:3A:6B:91&ip=202.134.8.137&magic_server=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.png" group-title="Sports", Willow HD
-http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Sony_LIV2020.png" group-title="Sports", SonyLIV
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD 
@@ -215,14 +209,16 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six
 http://jupiter.bdcabletv.com/SonySix/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 2
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD 2
-
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 SD 2
-
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1
