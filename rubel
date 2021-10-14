@@ -224,7 +224,7 @@ http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports", Star Sports 2
-http://jupiter.bdcabletv.com/ENC-4/video.m3u8
+http://173.199.120.51/hls/chsp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
