@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Quran",Quran TV
+PTAyYmo1Q2RoTjJjc2htTzVKR1psdDJZbGgyWS9nVGR6MG1MdUZtYzFGM1hwUldkaE4zTHhNSGJvOWliaEpYZHg5VmFrVlhZejl5YXpsR1p0Rm1jdlVtZHB4MkwwVm1idVFXWjZsV1l0RjJhaDVDZHpGMllsSjJic2RXTHp4R2F0UVdiaDVHWmo5eUw2TUhjMFJIYQ==
+
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
@@ -244,7 +246,7 @@ http://103.159.4.38:8080/SPORTS-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+NFUzTXQ1Q2VsUm1icDlpTXdNV1poWnpObGxqWjVFVE1rVlRPaE4yWTBNalp6RTJNM2NqWXdRak0yOFNNMjlDZDE5MkwwVm1idVFXYW9GR2F6NWlZMVJXTGs5bWN3MWlidjlHZGxOV1l3TlhMenhHYXo5eUw2TUhjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
@@ -254,7 +256,7 @@ https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network Hindi
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+PT1BTzFOVGJ1UXpYNFZHWnVsMkxtQmpZaFZXT3lZR08xUVRaaVpqTmhWak16UXpOekl6TnpjRE9oRkdOalIyTHhZM0wwVjNidlFYWnU1Q1pwaFdZb05uTGlWSFp0UTJieUJYTDBWbWJ0NDJidlJuY2hOV0x6eEdhejl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
