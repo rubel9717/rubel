@@ -4,7 +4,7 @@ PTAyYmo1Q2RoTjJjc2htTzVKR1psdDJZbGgyWS9nVGR6MG1MdUZtYzFGM1hwUldkaE4zTHhNSGJvOWli
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634838572&md5=HtU1G5jmbR_BcZNDOY6sfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD 3
