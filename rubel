@@ -93,7 +93,7 @@ http://103.81.104.118/hls/sunbangla.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Bangla", Zee Bangla
 http://103.81.104.118/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha
 http://103.81.104.118/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 
