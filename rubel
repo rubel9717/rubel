@@ -30,7 +30,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
-http://103.205.133.40/hls/nagorik.m3u8
+http://103.81.104.118/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqDLvV.png" group-title="Bangla", Sristi TV
@@ -68,7 +68,7 @@ https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://103.205.133.40/hls/ntv.m3u8
+http://103.81.104.118/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
 NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdU16TTJZVE4xUUROeUl6TXlNak15QURNd0FETTJSWFl1OUdhdjEyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
@@ -78,9 +78,9 @@ http://103.205.133.18/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv - Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://103.81.104.118/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla SD
-http://103.205.133.40/hls/colorsbangla.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
@@ -136,7 +136,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
-http://jupiter.bdcabletv.com/ENC-10/video.m3u8
+http://103.81.104.118/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi", WoW Cinema
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
