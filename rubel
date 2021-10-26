@@ -118,7 +118,7 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="Hindi", Rishtey Cineplex
@@ -228,9 +228,9 @@ http://93.152.174.144:4000/play/ss1in/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports", Star Sports 2
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
