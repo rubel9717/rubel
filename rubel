@@ -264,4 +264,4 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
 http://dspecg.tth.cl:6500/eros/pogohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA4OjE2OjIwIEFNJmhhc2hfdmFsdWU9YkxGMDRXTG1Nek1LZmVvUUptZ0hoZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel Hindi
-http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+http://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
