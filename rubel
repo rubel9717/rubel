@@ -248,15 +248,15 @@ http://103.159.4.38:8080/SPORTS-12/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
 NFUzTXQ1Q2VsUm1icDlpTXdNV1poWnpObGxqWjVFVE1rVlRPaE4yWTBNalp6RTJNM2NqWXdRak0yOFNNMjlDZDE5MkwwVm1idVFXYW9GR2F6NWlZMVJXTGs5bWN3MWlidjlHZGxOV1l3TlhMenhHYXo5eUw2TUhjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/Nick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network Hindi
